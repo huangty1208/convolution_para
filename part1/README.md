@@ -3,7 +3,7 @@
 
   Introduction:
 
-  This digital convolution algorithm replace each element in a  multi-dimensional grid by a weighted sum of its neighbors. The serial code is written in C and parallelized with OpenMP. Two 2D arrays (x, y) were defined. (x) was Initialized with random numbers between 0 and 1. The elements of the second array (y) were derived from (x) by smoothing over the elements using the constants a, b and c. We then counted the elements that are smaller than a threshold t in both arrays and print the number for both arrays. 
+  This digital convolution algorithm replaces each element in a  multi-dimensional grid by a weighted sum of its neighbors. The serial code is written in C and parallelized with OpenMP. Two 2D arrays (x, y) were defined. (x) was Initialized with random numbers between 0 and 1. The elements of the second array (y) were derived from (x) by smoothing over the elements using the constants a, b and c. We then counted the elements that are smaller than a threshold t in both arrays and print the number for both arrays. 
 
 
   note: 
