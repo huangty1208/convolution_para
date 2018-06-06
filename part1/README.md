@@ -25,7 +25,8 @@
   Sample output:
 
 
-Summary  -------  
+Summary 
+-------  
 Number of elements in a row/column       :: 16386  
 Number of inner elements in a row/column :: 16384  
 Total number of elements                 :: 268500996  
